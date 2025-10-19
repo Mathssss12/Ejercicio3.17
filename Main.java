@@ -20,7 +20,8 @@ y que después calcule e imprima la edad de esa persona en años, junto con el B
 máxima y el rango de frecuencia cardiaca esperada. También debe mostrar la tabla de valores del
 BMI VALORES DE BMI Bajo peso: menos de 18.5 Normal: entre 18.5 y 24.9 Sobrepeso: entre 25 y 29.9 Obeso: 30 o más
  */
-void main() {
+public class Main {
+    public static void main(String[] args) {
 
     int opc;
     int anioAc = 2025;
@@ -94,7 +95,7 @@ void main() {
     } while (opc != 5);
 
 
-
+}
 
 
 }
