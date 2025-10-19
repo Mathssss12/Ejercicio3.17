@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*
 Un tema relacionado con la salud que ha estado últimamente en las noticias es la computarización de los
 registros médicos. Esta posibilidad se está tratando con mucho cuidado, debido a las delicadas cuestiones
